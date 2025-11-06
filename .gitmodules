@@ -10,3 +10,9 @@
 [submodule "lib/aave-v3-origin"]
 	path = lib/aave-v3-origin
 	url = https://github.com/aave-dao/aave-v3-origin
+[submodule "lib/octant-v2-core"]
+	path = lib/octant-v2-core
+	url = https://github.com/golemfoundation/octant-v2-core
+[submodule "lib/octant-v2-strategy-foundry-mix"]
+	path = lib/octant-v2-strategy-foundry-mix
+	url = https://github.com/golemfoundation/octant-v2-strategy-foundry-mix

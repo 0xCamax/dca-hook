@@ -4,3 +4,5 @@
 @oz/=lib/openzeppelin-contracts/
 @permit/=lib/v4-periphery/lib/permit2/src/
 @aave/=lib/aave-v3-origin/
+@octant/=lib/octant-v2-core/src/
+@octant-strat/=/lib/octant-v2-strategy-foundry-mix/src/
